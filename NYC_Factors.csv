@@ -1,0 +1,61 @@
+﻿New York;Description;Code
+80;other;101
+Backing Unsafely;Backed without Safety  ;3
+Tire Failure/Inadequate;other;101
+1;other;101
+Following Too Closely;Followed Too Closely  ;44
+Reaction to Uninvolved Vehicle;other;101
+Fatigued/Drowsy;Fatigued or Asleep  ;40
+Windshield Inadequate;VEHICLE CONDITION;125
+Unsafe Lane Changing;Turned Improperly - Wrong Lane  ;65
+NA;NA;NA
+Pavement Defective;ROAD CONSTRUCTION/MAINTENANCE;129
+Cell Phone (hand-Held);Cell/Mobile Device Use - Talking  ;74
+Cell Phone (hands-free);Cell/Mobile Device Use - Other  ;76
+Shoulders Defective/Improper;Drove on improved shoulder;79
+Unspecified;other;101
+Passenger Distraction;other;101
+Vehicle Vandalism;other;101
+Illness;Ill (Explain in Narrative)  ;47
+Unsafe Speed;Unsafe Speed  ;60
+Driver Inexperience;Driver Inexperience;133
+Oversized Vehicle;Oversized Vehicle or Load  ;52
+Listening/Using Headphones;Cell/Mobile Device Use - Unknown  ;77
+Eating or Drinking;Driver Inattention  ;20
+Reaction to Other Uninvolved Vehicle;other;101
+Traffic Control Disregarded;other;101
+Alcohol Involvement;Intoxicated - Alcohol  ;67
+Driverless/Runaway Vehicle;Driverless/Runaway Vehicle;134
+Glare;Impaired Visibility (Explain in Narrative)  ;48
+Other Lighting Defects;other;101
+Texting;Cell/Mobile Device Use - Texting  ;75
+Passing or Lane Usage Improper;Passed in No Passing Lane  ;57
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion;Pedestrian FTYROW to Vehicle  ;59
+Failure to Keep Right;Failed to Drive in Single Lane  ;23
+Aggressive Driving/Road Rage;Road Rage  ;73
+Brakes Defective;VEHICLE CONDITION;125
+Steering Failure;VEHICLE CONDITION;125
+Tinted Windows;Impaired Visibility (Explain in Narrative)  ;48
+Other Electronic Device;Failed to slow or move over for vehicles displaying emergency lights  ;78
+Turning Improperly;Turned Improperly - Cut Corner on Left  ;63
+Lost Consciousness;Fatigued or Asleep  ;40
+Fell Asleep;Fatigued or Asleep  ;40
+Drugs (illegal);Fire in Vehicle  ;42
+Lane Marking Improper/Inadequate;other;101
+Physical Disability;Handicapped Driver (Explain in Narrative)  ;46
+Animals Action;Animal on Road - Wild  ;2
+Accelerator Defective;VEHICLE CONDITION;125
+Traffic Control Device Improper/Non-Working;Failed to Heed Warning Sign or Traffic Control Device  ;25
+Failure to Yield Right-of-Way;Failed to Drive in Single Lane  ;23
+Passing Too Closely;Passed on Shoulder  ;58
+Tow Hitch Defective;other;101
+Other Vehicular;Failed to slow or move over for vehicles displaying emergency lights  ;78
+Illnes;Ill (Explain in Narrative)  ;47
+Outside Car Distraction;DISTRACTION - FROM OUTSIDE VEHICLE;121
+Using On Board Navigation Device;DISTRACTION - OTHER ELECTRONIC DEVICE (NAVIGATION DEVICE, DVD PLAYER, ETC.);123
+Headlights Defective;Drove Without Headlights  ;21
+Prescription Medication;Taking Medication (Explain in Narrative)  ;62
+Driver Inattention/Distraction;DISTRACTION - FROM OUTSIDE VEHICLE;121
+View Obstructed/Limited;other;101
+Pavement Slippery;ROAD CONSTRUCTION/MAINTENANCE;129
+Obstruction/Debris;other;101
