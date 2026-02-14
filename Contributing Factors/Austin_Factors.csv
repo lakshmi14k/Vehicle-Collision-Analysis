@@ -1,0 +1,86 @@
+﻿Description;Code;Austin 
+Animal on Road - Domestic  ;1;Animal on Road - Domestic  
+Animal on Road - Wild  ;2;Animal on Road - Wild  
+Backed without Safety  ;3;Backed without Safety  
+Changed Lane when Unsafe  ;4;Changed Lane when Unsafe  
+Disabled in Traffic Lane  ;14;Disabled in Traffic Lane  
+Disregard Stop and Go Signal  ;15;Disregard Stop and Go Signal  
+Disregard Stop Sign or Light  ;16;Disregard Stop Sign or Light  
+Disregard Turn Marks at Intersection  ;17;Disregard Turn Marks at Intersection  
+Disregard Warning Sign at Construction  ;18;Disregard Warning Sign at Construction  
+Distraction in Vehicle  ;19;Distraction in Vehicle  
+Driver Inattention  ;20;Driver Inattention  
+Drove Without Headlights  ;21;Drove Without Headlights  
+Failed to Control Speed  ;22;Failed to Control Speed  
+Failed to Drive in Single Lane  ;23;Failed to Drive in Single Lane  
+Failed to Give Half of Roadway  ;24;Failed to Give Half of Roadway  
+Failed to Heed Warning Sign or Traffic Control Device  ;25;Failed to Heed Warning Sign or Traffic Control Device  
+Failed to Pass to Left Safely  ;26;Failed to Pass to Left Safely  
+Failed to Pass to Right Safely  ;27;Failed to Pass to Right Safely  
+Failed to Signal or Gave Wrong Signal  ;28;Failed to Signal or Gave Wrong Signal  
+Failed to Stop at Proper Place  ;29;Failed to Stop at Proper Place  
+Failed to Stop for School Bus  ;30;Failed to Stop for School Bus  
+Failed to Stop for Train  ;31;Failed to Stop for Train  
+Failed to Yield ROW - Emergency Vehicle  ;32;Failed to Yield ROW - Emergency Vehicle  
+Failed to Yield ROW - Open Intersection  ;33;Failed to Yield ROW - Open Intersection  
+Failed to Yield ROW - Private Drive  ;34;Failed to Yield ROW - Private Drive  
+Failed to Yield ROW - Stop Sign  ;35;Failed to Yield ROW - Stop Sign  
+Failed to Yield ROW - To Pedestrian  ;36;Failed to Yield ROW - To Pedestrian  
+Failed to Yield ROW - Turning Left  ;37;Failed to Yield ROW - Turning Left  
+Failed to Yield ROW - Turn on Red  ;38;Failed to Yield ROW - Turn on Red  
+Failed to Yield ROW - Yield Sign  ;39;Failed to Yield ROW - Yield Sign  
+Fatigued or Asleep  ;40;Fatigued or Asleep  
+Faulty Evasive Action  ;41;Faulty Evasive Action  
+Fire in Vehicle  ;42;Fire in Vehicle  
+Fleeing or Evading Police  ;43;Fleeing or Evading Police  
+Followed Too Closely  ;44;Followed Too Closely  
+Had Been Drinking  ;45;Had Been Drinking  
+Handicapped Driver (Explain in Narrative)  ;46;Handicapped Driver (Explain in Narrative)  
+Ill (Explain in Narrative)  ;47;Ill (Explain in Narrative)  
+Impaired Visibility (Explain in Narrative)  ;48;Impaired Visibility (Explain in Narrative)  
+Improper Start from a Stopped, Standing, or Parked Position  ;49;Improper Start from a Stopped, Standing, or Parked Position  
+Load Not Secured  ;50;Load Not Secured  
+Opened Door Into Traffic Lane  ;51;Opened Door Into Traffic Lane  
+Oversized Vehicle or Load  ;52;Oversized Vehicle or Load  
+Overtake and Pass Insufficient Clearance  ;53;Overtake and Pass Insufficient Clearance  
+Parked and Failed to Set Brakes  ;54;Parked and Failed to Set Brakes  
+Parked in Traffic Lane  ;55;Parked in Traffic Lane  
+Parked without Lights  ;56;Parked without Lights  
+Passed in No Passing Lane  ;57;Passed in No Passing Lane  
+Passed on Shoulder  ;58;Passed on Shoulder  
+Pedestrian FTYROW to Vehicle  ;59;Pedestrian FTYROW to Vehicle  
+Unsafe Speed  ;60;Unsafe Speed  
+Speeding - (Over Limit)  ;61;Speeding - (Over Limit)  
+Taking Medication (Explain in Narrative)  ;62;Taking Medication (Explain in Narrative)  
+Turned Improperly - Cut Corner on Left  ;63;Turned Improperly - Cut Corner on Left  
+Turned Improperly - Wide Right  ;64;Turned Improperly - Wide Right  
+Turned Improperly - Wrong Lane  ;65;Turned Improperly - Wrong Lane  
+Turned when Unsafe  ;66;Turned when Unsafe  
+Intoxicated - Alcohol  ;67;Intoxicated - Alcohol  
+Intoxicated - Drug  ;68;Intoxicated - Drug  
+Wrong Side - Approach or Intersection  ;69;Wrong Side - Approach or Intersection  
+Wrong Side - Not Passing  ;70;Wrong Side - Not Passing  
+Wrong Way - One Way Road  ;71;Wrong Way - One Way Road  
+Road Rage  ;73;Road Rage  
+Cell/Mobile Device Use - Talking  ;74;Cell/Mobile Device Use - Talking  
+Cell/Mobile Device Use - Texting  ;75;Cell/Mobile Device Use - Texting  
+Cell/Mobile Device Use - Other  ;76;Cell/Mobile Device Use - Other  
+Cell/Mobile Device Use - Unknown  ;77;Cell/Mobile Device Use - Unknown  
+Failed to slow or move over for vehicles displaying emergency lights  ;78;Failed to slow or move over for vehicles displaying emergency lights  
+Drove on improved shoulder;79;Drove on improved shoulder
+other;101;other
+BICYCLE ADVANCING LEGALLY ON RED LIGHT;120;
+DISTRACTION - FROM OUTSIDE VEHICLE;121;
+DISREGARDING OTHER TRAFFIC SIGNS;122;
+DISTRACTION - OTHER ELECTRONIC DEVICE (NAVIGATION DEVICE, DVD PLAYER, ETC.);123;
+DRIVING SKILLS/KNOWLEDGE/EXPERIENCE;124;
+VEHICLE CONDITION;125;
+FAILING TO YIELD RIGHT-OF-WAY;126;
+OBSTRUCTED CROSSWALKS;127;
+RELATED TO BUS STOP;128;
+ROAD CONSTRUCTION/MAINTENANCE;129;
+Pavement Defective;130;
+WEATHER;131;
+UNABLE TO DETERMINE;132;
+Driver Inexperience;133;
+Driverless/Runaway Vehicle;134;
