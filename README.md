@@ -93,26 +93,26 @@ Vehicle-Collision-Analysis/
 │   │   ├── Austin_Cleaned.csv             Standardized Austin data
 │   │   ├── Chicago_Cleaned.csv            Standardized Chicago data
 │   │   └── NYC_Cleaned.csv                Standardized NYC data
-│   └── Master/
-│       └── Vehicle_Collisions_Master.csv  Combined 2022-2024 data (491K records)
 ├── Python/
-│   ├── 01_clean_raw_data.py              Data cleaning script
-│   └── 02_combine_for_tableau.py         Master file creation
-├── ETL/
-│   ├── Austin/                            Austin Talend workflows
-│   ├── Chicago/                           Chicago Talend workflows
-│   ├── NYC/                               NYC Talend workflows
-│   └── ETL_Documentation.pdf              Complete ETL process documentation
+│   ├── Cleaned Data.py                    Data cleaning script
+│   └── Tableau Data.py                    Master file creation
 ├── Profiling/
-│   ├── Austin_Profiling.yxmd              Alteryx profiling workflow
-│   ├── Chicago_Profiling.yxmd             Alteryx profiling workflow
-│   └── NYC_Profiling.yxmd                 Alteryx profiling workflow
-├── Model/
-│   ├── Dimensional_Model.png              Star schema diagram
-│   └── DDL_Scripts.sql                    Database creation scripts
-└── Dashboards/
-    ├── Overview_and_Hotspots.twbx         Tableau Dashboard 1
-    └── Deep_Dive_Analysis.twbx            Tableau Dashboard 2
+│   ├── YData/
+│   │   ├── ydata_Austin                    Austin Y-Data
+│   │   ├── ydata_Chicago                   Chicago Y-Data
+│   │   └── ydata_NYC                       NYC Y-Data
+│   ├── Alteryx/
+│   │   ├── Austin_Profiling.yxmd           Austin Alteryx
+│   │   ├── Chicago_Profiling.yxmd          Chicago Alteryx
+│   │   └── Austin_Profiling.yxmd           NYC Alteryx
+├── Docs/
+│    ├── Alteryx and ETL workflows          Talend and ETL documentation
+└── Viz/
+    ├── Vehicle Collision Analysis.twbx     Tableau Dashboard
+    |── Master Data.csv                     Master Data for Tableau
+    └── Vehicle Collision Analysis.pdf      Tableau Dashboard
+
+
 ```
 
 **Database Schema: Star Schema Design**
